@@ -1,17 +1,17 @@
 #include "Application.h"
 #include <iostream>
+using namespace std;
 
 void displayDeveloperResume() 
 {
-    std::cout << "Developer Resume for Lysenko Vladislav Dmitrievich" << std::endl;
-    std::cout << "Skills: C++, Python, Web Development" << std::endl;
-    std::cout << "Experience: 3 years of software development" << std::endl;
+    cout << "Developer Resume for Khodatska Alina Vitalievna" << endl;
+    cout << "Skills: C++, Python" << endl;
+    cout << "Experience: none" << endl;
 }
 
 void displayStudentResume() 
 {
-    std::cout << "Student Resume for Lysenko Vladislav Dmitrievich" << std::endl;
-    std::cout << "Major: Computer Science" << std::endl;
-    std::cout << "GPA: 3.8" << std::endl;
-    std::cout << "Current University: Example University" << std::endl;
+    cout << "Student Resume for Khodatska Alina Vitalievna" << endl;
+    cout << "GPA: 3.6" << endl;
+    cout << "Current School: liceum 23" << endl;
 }
